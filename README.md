@@ -1,1 +1,3 @@
-# Purple_States_of_America
+# Purple States of America
+
+Mapping presidential election results on a gradient rather than red/blue.
