@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## The Purple States of America
 
-You can use the [editor on GitHub](https://github.com/cerickson30/Purple_States_of_America/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+@BarackObama. "There are no red states or blue states, just the United States." *Twitter*, 30 Apr. 2012, 10:14 p.m., https://twitter.com/BarackObama/status/197162005830963201.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project of interactive maps of the 48 contiguous United States shows county-level presidential election results for 1960 through 2012.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cerickson30/Purple_States_of_America/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* (1960)[]
+* (1964)[]
+* (1968)[]
+* (1972)[]
+* (1976)[]
+* (1980)[]
+* (1984)[]
+* (1988)[]
+* (1992)[]
+* (1996)[]
+* (2000)[]
+* (2004)[]
+* (2008)[]
+* (2012)[]
