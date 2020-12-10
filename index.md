@@ -2,7 +2,7 @@
 
 @BarackObama. "There are no red states or blue states, just the United States." *Twitter*, 30 Apr. 2012, 10:14 p.m., <a href="https://twitter.com/BarackObama/status/197162005830963201" target="_blank">https://twitter.com/BarackObama/status/197162005830963201</a>.
 
-This project of interactive maps of the 48 contiguous United States shows county-level presidential election results for 1960 through 2012.
+This project of interactive maps of the 48 contiguous United States shows county-level presidential election results for 1960 through 2012. Hover over a county to see the results for that county.
 
 * [1960: Kennedy vs. Nixon](html_maps/purple_states_1960.html)
 * [1964: Johnson vs. Goldwater](html_maps/purple_states_1964.html)
