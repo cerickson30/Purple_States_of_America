@@ -1,5 +1,4 @@
 [theme]
-base="light"
 
 # Used to style primary interface elements. It's the color displayed most frequently across your app's
 # screens and components. Examples of widgets using this color are st.slider and st.checkbox.
